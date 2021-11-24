@@ -1,0 +1,22 @@
+.h1{
+    position: absolute;
+    width: 286px;
+    height: 48px;
+    left: 61px;
+    top: 169px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 48px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #421C09;
+}
+
+li{
+    text-decoration: none;
+}
