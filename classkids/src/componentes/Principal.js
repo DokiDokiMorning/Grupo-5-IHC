@@ -8,11 +8,11 @@ const Principal = () => {
         <div className="border">
           <div>
             <img className="mx-auto d-block" src={classkid} alt="" />
-            <h1 className="text-center">Bienvenido niños</h1>
+            <h1 className="text-center">Bienvenido de nuevo</h1>
           </div>
           <div>
-            <h3 className="text-center">¿Quieres aprender rápido y sencillo? </h3>
-            <h3 className="text-center">Registrate y comienza a aprender </h3>
+            <h3 className="text-center">¡Respuestas fáciles de entender y comprender! </h3>
+            <h3 className="text-center">Regístrate y comienza a aprender </h3>
             <img className="mx-auto d-block" src={ppp} alt="" />
           </div>
           </div>
